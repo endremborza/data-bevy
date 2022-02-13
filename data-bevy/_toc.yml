@@ -1,0 +1,9 @@
+format: jb-book
+root: intro
+parts:
+  - caption: Simple Data Tables
+    chapters:
+    - glob: notebooks/table-*
+  - caption: Crypto
+    chapters:
+    - glob: notebooks/crypto-*

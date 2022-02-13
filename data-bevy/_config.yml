@@ -1,0 +1,20 @@
+title: Data Bevy
+author: Endre Márk Borza
+logo: logo.png
+copyright: "2022"
+execute:
+  execute_notebooks: cache
+repository:
+  url: https://github.com/endremborza/data-bevy
+  branch: main
+html:
+  use_issues_button: true
+  use_repository_button: true
+
+# hopefully never:
+# latex:
+#  latex_documents:
+#    targetname: book.tex
+
+# bibtex_bibfiles:
+#  - references.bib
