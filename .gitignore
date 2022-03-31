@@ -2,3 +2,7 @@ build.sh
 clean.sh
 drafts
 .ipynb_checkpoints
+__pycache__
+*.parquet
+*.zip
+*.csv
